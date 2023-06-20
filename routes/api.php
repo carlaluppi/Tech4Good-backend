@@ -1,7 +1,7 @@
 <?php
 
 use App\Http\Controllers\SequiaController;
-use App\Http\Controllers\DataPruebaController;
+use App\Http\Controllers\DataSetController;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Route;
 
@@ -20,7 +20,6 @@ Route::middleware('auth:sanctum')->get('/user', function (Request $request) {
     return $request->user();
 });
 
-Route::resource('/data', DataPruebaController::class);
+Route::resource('/data', DataSetController::class);
 
 
-Route::resource('sequia', SequiaController::class);

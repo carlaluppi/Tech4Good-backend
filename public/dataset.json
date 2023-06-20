@@ -1,0 +1,2486 @@
+[ 
+{
+  "Fecha": 946684800000,
+  "Any": 2000,
+  "Mes": 1,
+  "Precipitacion": 26.6,
+  "Temperatura": 7.7,
+  "SPI": -0.5103896625,
+  "SPI Historico": -0.5002625787
+},
+{
+  "Fecha": 949363200000,
+  "Any": 2000,
+  "Mes": 2,
+  "Precipitacion": 1.1,
+  "Temperatura": 11.4,
+  "SPI": -0.9878277426,
+  "SPI Historico": -1.0641952229
+},
+{
+  "Fecha": 951868800000,
+  "Any": 2000,
+  "Mes": 3,
+  "Precipitacion": 47.5,
+  "Temperatura": 12.6,
+  "SPI": -0.1190776675,
+  "SPI Historico": -0.0380589605
+},
+{
+  "Fecha": 954547200000,
+  "Any": 2000,
+  "Mes": 4,
+  "Precipitacion": 80.4,
+  "Temperatura": 13.3,
+  "SPI": 0.4969110711,
+  "SPI Historico": 0.6895247255
+},
+{
+  "Fecha": 957139200000,
+  "Any": 2000,
+  "Mes": 5,
+  "Precipitacion": 85.4,
+  "Temperatura": 18.3,
+  "SPI": 0.5905263809,
+  "SPI Historico": 0.8000997538
+},
+{
+  "Fecha": 959817600000,
+  "Any": 2000,
+  "Mes": 6,
+  "Precipitacion": 17.2,
+  "Temperatura": 21.0,
+  "SPI": -0.686386445,
+  "SPI Historico": -0.7081436318
+},
+{
+  "Fecha": 962409600000,
+  "Any": 2000,
+  "Mes": 7,
+  "Precipitacion": 1.9,
+  "Temperatura": 22.8,
+  "SPI": -0.972849293,
+  "SPI Historico": -1.0465032184
+},
+{
+  "Fecha": 965088000000,
+  "Any": 2000,
+  "Mes": 8,
+  "Precipitacion": 13.7,
+  "Temperatura": 24.5,
+  "SPI": -0.7519171618,
+  "SPI Historico": -0.7855461516
+},
+{
+  "Fecha": 967766400000,
+  "Any": 2000,
+  "Mes": 9,
+  "Precipitacion": 56.4,
+  "Temperatura": 21.0,
+  "SPI": 0.047557584,
+  "SPI Historico": 0.1587645898
+},
+{
+  "Fecha": 970358400000,
+  "Any": 2000,
+  "Mes": 10,
+  "Precipitacion": 61.1,
+  "Temperatura": 16.0,
+  "SPI": 0.1355559752,
+  "SPI Historico": 0.2627051164
+},
+{
+  "Fecha": 973036800000,
+  "Any": 2000,
+  "Mes": 11,
+  "Precipitacion": 13.9,
+  "Temperatura": 11.3,
+  "SPI": -0.7481725494,
+  "SPI Historico": -0.7811231505
+},
+{
+  "Fecha": 975628800000,
+  "Any": 2000,
+  "Mes": 12,
+  "Precipitacion": 63.9,
+  "Temperatura": 11.0,
+  "SPI": 0.1879805487,
+  "SPI Historico": 0.3246271322
+},
+{
+  "Fecha": 978307200000,
+  "Any": 2001,
+  "Mes": 1,
+  "Precipitacion": 84.2,
+  "Temperatura": 9.9,
+  "SPI": 0.5722659287,
+  "SPI Historico": 0.773561747
+},
+{
+  "Fecha": 980985600000,
+  "Any": 2001,
+  "Mes": 2,
+  "Precipitacion": 21.0,
+  "Temperatura": 10.1,
+  "SPI": -0.6181290254,
+  "SPI Historico": -0.6241066104
+},
+{
+  "Fecha": 983404800000,
+  "Any": 2001,
+  "Mes": 3,
+  "Precipitacion": 17.1,
+  "Temperatura": 14.8,
+  "SPI": -0.6915869419,
+  "SPI Historico": -0.7103551324
+},
+{
+  "Fecha": 986083200000,
+  "Any": 2001,
+  "Mes": 4,
+  "Precipitacion": 34.0,
+  "Temperatura": 13.8,
+  "SPI": -0.3732693038,
+  "SPI Historico": -0.3366115368
+},
+{
+  "Fecha": 988675200000,
+  "Any": 2001,
+  "Mes": 5,
+  "Precipitacion": 31.9,
+  "Temperatura": 18.2,
+  "SPI": -0.4128235666,
+  "SPI Historico": -0.3830530487
+},
+{
+  "Fecha": 991353600000,
+  "Any": 2001,
+  "Mes": 6,
+  "Precipitacion": 3.0,
+  "Temperatura": 21.9,
+  "SPI": -0.957165563,
+  "SPI Historico": -1.0221767121
+},
+{
+  "Fecha": 993945600000,
+  "Any": 2001,
+  "Mes": 7,
+  "Precipitacion": 80.4,
+  "Temperatura": 23.7,
+  "SPI": 0.5006915485,
+  "SPI Historico": 0.6895247255
+},
+{
+  "Fecha": 996624000000,
+  "Any": 2001,
+  "Mes": 8,
+  "Precipitacion": 16.4,
+  "Temperatura": 25.0,
+  "SPI": -0.7047716961,
+  "SPI Historico": -0.7258356364
+},
+{
+  "Fecha": 999302400000,
+  "Any": 2001,
+  "Mes": 9,
+  "Precipitacion": 48.7,
+  "Temperatura": 19.6,
+  "SPI": -0.0963894648,
+  "SPI Historico": -0.0115209537
+},
+{
+  "Fecha": 1001894400000,
+  "Any": 2001,
+  "Mes": 10,
+  "Precipitacion": 36.8,
+  "Temperatura": 19.4,
+  "SPI": -0.3205302869,
+  "SPI Historico": -0.274689521
+},
+{
+  "Fecha": 1004572800000,
+  "Any": 2001,
+  "Mes": 11,
+  "Precipitacion": 67.8,
+  "Temperatura": 10.7,
+  "SPI": 0.2633659722,
+  "SPI Historico": 0.4108756543
+},
+{
+  "Fecha": 1007164800000,
+  "Any": 2001,
+  "Mes": 12,
+  "Precipitacion": 31.0,
+  "Temperatura": 6.8,
+  "SPI": -0.4297753934,
+  "SPI Historico": -0.4029565538
+},
+{
+  "Fecha": 1009843200000,
+  "Any": 2002,
+  "Mes": 1,
+  "Precipitacion": 46.3,
+  "Temperatura": 9.2,
+  "SPI": -0.1397463942,
+  "SPI Historico": -0.0645969673
+},
+{
+  "Fecha": 1012521600000,
+  "Any": 2002,
+  "Mes": 2,
+  "Precipitacion": 20.3,
+  "Temperatura": 11.1,
+  "SPI": -0.6522505175,
+  "SPI Historico": -0.6395871143
+},
+{
+  "Fecha": 1014940800000,
+  "Any": 2002,
+  "Mes": 3,
+  "Precipitacion": 85.7,
+  "Temperatura": 12.3,
+  "SPI": 0.6368944696,
+  "SPI Historico": 0.8067342555
+},
+{
+  "Fecha": 1017619200000,
+  "Any": 2002,
+  "Mes": 4,
+  "Precipitacion": 113.6,
+  "Temperatura": 13.7,
+  "SPI": 1.1868508173,
+  "SPI Historico": 1.4237429133
+},
+{
+  "Fecha": 1020211200000,
+  "Any": 2002,
+  "Mes": 5,
+  "Precipitacion": 122.9,
+  "Temperatura": 15.5,
+  "SPI": 1.3701695998,
+  "SPI Historico": 1.6294124658
+},
+{
+  "Fecha": 1022889600000,
+  "Any": 2002,
+  "Mes": 6,
+  "Precipitacion": 37.4,
+  "Temperatura": 22.3,
+  "SPI": -0.3151804979,
+  "SPI Historico": -0.2614205176
+},
+{
+  "Fecha": 1025481600000,
+  "Any": 2002,
+  "Mes": 7,
+  "Precipitacion": 125.9,
+  "Temperatura": 22.9,
+  "SPI": 1.429304691,
+  "SPI Historico": 1.6957574828
+},
+{
+  "Fecha": 1028160000000,
+  "Any": 2002,
+  "Mes": 8,
+  "Precipitacion": 97.7,
+  "Temperatura": 21.6,
+  "SPI": 0.8734348342,
+  "SPI Historico": 1.0721143234
+},
+{
+  "Fecha": 1030838400000,
+  "Any": 2002,
+  "Mes": 9,
+  "Precipitacion": 33.6,
+  "Temperatura": 19.9,
+  "SPI": -0.3900849467,
+  "SPI Historico": -0.3454575391
+},
+{
+  "Fecha": 1033430400000,
+  "Any": 2002,
+  "Mes": 10,
+  "Precipitacion": 161.9,
+  "Temperatura": 17.4,
+  "SPI": 2.1389257848,
+  "SPI Historico": 2.4918976864
+},
+{
+  "Fecha": 1036108800000,
+  "Any": 2002,
+  "Mes": 11,
+  "Precipitacion": 65.7,
+  "Temperatura": 13.0,
+  "SPI": 0.2426605286,
+  "SPI Historico": 0.3644341424
+},
+{
+  "Fecha": 1038700800000,
+  "Any": 2002,
+  "Mes": 12,
+  "Precipitacion": 52.5,
+  "Temperatura": 10.4,
+  "SPI": -0.0175338725,
+  "SPI Historico": 0.0725160678
+},
+{
+  "Fecha": 1041379200000,
+  "Any": 2003,
+  "Mes": 1,
+  "Precipitacion": 24.6,
+  "Temperatura": 7.9,
+  "SPI": -0.552970323,
+  "SPI Historico": -0.54449259
+},
+{
+  "Fecha": 1044057600000,
+  "Any": 2003,
+  "Mes": 2,
+  "Precipitacion": 154.5,
+  "Temperatura": 7.1,
+  "SPI": 1.9881427316,
+  "SPI Historico": 2.3282466445
+},
+{
+  "Fecha": 1046476800000,
+  "Any": 2003,
+  "Mes": 3,
+  "Precipitacion": 15.8,
+  "Temperatura": 12.1,
+  "SPI": -0.72511655,
+  "SPI Historico": -0.7391046398
+},
+{
+  "Fecha": 1049155200000,
+  "Any": 2003,
+  "Mes": 4,
+  "Precipitacion": 16.5,
+  "Temperatura": 14.0,
+  "SPI": -0.7114231001,
+  "SPI Historico": -0.7236241358
+},
+{
+  "Fecha": 1051747200000,
+  "Any": 2003,
+  "Mes": 5,
+  "Precipitacion": 52.9,
+  "Temperatura": 18.0,
+  "SPI": 0.0006362932,
+  "SPI Historico": 0.08136207
+},
+{
+  "Fecha": 1054425600000,
+  "Any": 2003,
+  "Mes": 6,
+  "Precipitacion": 0.0,
+  "Temperatura": 25.6,
+  "SPI": -1.0341972756,
+  "SPI Historico": -1.0885217291
+},
+{
+  "Fecha": 1057017600000,
+  "Any": 2003,
+  "Mes": 7,
+  "Precipitacion": 4.3,
+  "Temperatura": 26.1,
+  "SPI": -0.9500803693,
+  "SPI Historico": -0.9934272048
+},
+{
+  "Fecha": 1059696000000,
+  "Any": 2003,
+  "Mes": 8,
+  "Precipitacion": 31.4,
+  "Temperatura": 28.5,
+  "SPI": -0.4199482386,
+  "SPI Historico": -0.3941105515
+},
+{
+  "Fecha": 1062374400000,
+  "Any": 2003,
+  "Mes": 9,
+  "Precipitacion": 97.9,
+  "Temperatura": 20.8,
+  "SPI": 0.8809294992,
+  "SPI Historico": 1.0765373245
+},
+{
+  "Fecha": 1064966400000,
+  "Any": 2003,
+  "Mes": 10,
+  "Precipitacion": 150.8,
+  "Temperatura": 15.2,
+  "SPI": 1.915763068,
+  "SPI Historico": 2.2464211236
+},
+{
+  "Fecha": 1067644800000,
+  "Any": 2003,
+  "Mes": 11,
+  "Precipitacion": 16.6,
+  "Temperatura": 12.7,
+  "SPI": -0.709466893,
+  "SPI Historico": -0.7214126352
+},
+{
+  "Fecha": 1070236800000,
+  "Any": 2003,
+  "Mes": 12,
+  "Precipitacion": 36.0,
+  "Temperatura": 8.8,
+  "SPI": -0.3299627109,
+  "SPI Historico": -0.2923815255
+},
+{
+  "Fecha": 1072915200000,
+  "Any": 2004,
+  "Mes": 1,
+  "Precipitacion": 2.6,
+  "Temperatura": 9.4,
+  "SPI": -0.9878645646,
+  "SPI Historico": -1.0310227144
+},
+{
+  "Fecha": 1075593600000,
+  "Any": 2004,
+  "Mes": 2,
+  "Precipitacion": 107.1,
+  "Temperatura": 8.6,
+  "SPI": 1.0514129725,
+  "SPI Historico": 1.2799953765
+},
+{
+  "Fecha": 1078099200000,
+  "Any": 2004,
+  "Mes": 3,
+  "Precipitacion": 68.2,
+  "Temperatura": 10.0,
+  "SPI": 0.2922943486,
+  "SPI Historico": 0.4197216565
+},
+{
+  "Fecha": 1080777600000,
+  "Any": 2004,
+  "Mes": 4,
+  "Precipitacion": 128.9,
+  "Temperatura": 12.8,
+  "SPI": 1.4768316357,
+  "SPI Historico": 1.7621024998
+},
+{
+  "Fecha": 1083369600000,
+  "Any": 2004,
+  "Mes": 5,
+  "Precipitacion": 36.6,
+  "Temperatura": 16.2,
+  "SPI": -0.3243675669,
+  "SPI Historico": -0.2791125221
+},
+{
+  "Fecha": 1086048000000,
+  "Any": 2004,
+  "Mes": 6,
+  "Precipitacion": 14.5,
+  "Temperatura": 22.4,
+  "SPI": -0.7556406154,
+  "SPI Historico": -0.7678541471
+},
+{
+  "Fecha": 1088640000000,
+  "Any": 2004,
+  "Mes": 7,
+  "Precipitacion": 32.1,
+  "Temperatura": 23.5,
+  "SPI": -0.412183346,
+  "SPI Historico": -0.3786300476
+},
+{
+  "Fecha": 1091318400000,
+  "Any": 2004,
+  "Mes": 8,
+  "Precipitacion": 12.0,
+  "Temperatura": 25.1,
+  "SPI": -0.8044271593,
+  "SPI Historico": -0.8231416612
+},
+{
+  "Fecha": 1093996800000,
+  "Any": 2004,
+  "Mes": 9,
+  "Precipitacion": 71.1,
+  "Temperatura": 21.4,
+  "SPI": 0.3488867396,
+  "SPI Historico": 0.4838551729
+},
+{
+  "Fecha": 1096588800000,
+  "Any": 2004,
+  "Mes": 10,
+  "Precipitacion": 27.9,
+  "Temperatura": 18.9,
+  "SPI": -0.4941447398,
+  "SPI Historico": -0.4715130713
+},
+{
+  "Fecha": 1099267200000,
+  "Any": 2004,
+  "Mes": 11,
+  "Precipitacion": 9.8,
+  "Temperatura": 11.4,
+  "SPI": -0.847359318,
+  "SPI Historico": -0.8717946737
+},
+{
+  "Fecha": 1101859200000,
+  "Any": 2004,
+  "Mes": 12,
+  "Precipitacion": 77.6,
+  "Temperatura": 9.3,
+  "SPI": 0.4757317539,
+  "SPI Historico": 0.6276027097
+},
+{
+  "Fecha": 1104537600000,
+  "Any": 2005,
+  "Mes": 1,
+  "Precipitacion": 0.0,
+  "Temperatura": 7.2,
+  "SPI": -1.032164089,
+  "SPI Historico": -1.0885217291
+},
+{
+  "Fecha": 1107216000000,
+  "Any": 2005,
+  "Mes": 2,
+  "Precipitacion": 55.6,
+  "Temperatura": 6.5,
+  "SPI": 0.0461660345,
+  "SPI Historico": 0.1410725853
+},
+{
+  "Fecha": 1109635200000,
+  "Any": 2005,
+  "Mes": 3,
+  "Precipitacion": 18.3,
+  "Temperatura": 10.2,
+  "SPI": -0.6772460807,
+  "SPI Historico": -0.6838171256
+},
+{
+  "Fecha": 1112313600000,
+  "Any": 2005,
+  "Mes": 4,
+  "Precipitacion": 14.1,
+  "Temperatura": 14.0,
+  "SPI": -0.7587026728,
+  "SPI Historico": -0.7767001494
+},
+{
+  "Fecha": 1114905600000,
+  "Any": 2005,
+  "Mes": 5,
+  "Precipitacion": 33.3,
+  "Temperatura": 18.8,
+  "SPI": -0.3863296805,
+  "SPI Historico": -0.3520920408
+},
+{
+  "Fecha": 1117584000000,
+  "Any": 2005,
+  "Mes": 6,
+  "Precipitacion": 11.5,
+  "Temperatura": 23.4,
+  "SPI": -0.8091281822,
+  "SPI Historico": -0.8341991641
+},
+{
+  "Fecha": 1120176000000,
+  "Any": 2005,
+  "Mes": 7,
+  "Precipitacion": 7.8,
+  "Temperatura": 24.4,
+  "SPI": -0.8808875609,
+  "SPI Historico": -0.916024685
+},
+{
+  "Fecha": 1122854400000,
+  "Any": 2005,
+  "Mes": 8,
+  "Precipitacion": 41.7,
+  "Temperatura": 23.0,
+  "SPI": -0.2234164964,
+  "SPI Historico": -0.1663259933
+},
+{
+  "Fecha": 1125532800000,
+  "Any": 2005,
+  "Mes": 9,
+  "Precipitacion": 105.6,
+  "Temperatura": 20.7,
+  "SPI": 1.0158873686,
+  "SPI Historico": 1.246822868
+},
+{
+  "Fecha": 1128124800000,
+  "Any": 2005,
+  "Mes": 10,
+  "Precipitacion": 127.1,
+  "Temperatura": 17.9,
+  "SPI": 1.4328675422,
+  "SPI Historico": 1.7222954896
+},
+{
+  "Fecha": 1130803200000,
+  "Any": 2005,
+  "Mes": 11,
+  "Precipitacion": 140.3,
+  "Temperatura": 11.1,
+  "SPI": 1.6888739744,
+  "SPI Historico": 2.0142135642
+},
+{
+  "Fecha": 1133395200000,
+  "Any": 2005,
+  "Mes": 12,
+  "Precipitacion": 3.1,
+  "Temperatura": 6.6,
+  "SPI": -0.9720413663,
+  "SPI Historico": -1.0199652116
+},
+{
+  "Fecha": 1136073600000,
+  "Any": 2006,
+  "Mes": 1,
+  "Precipitacion": 150.4,
+  "Temperatura": 7.4,
+  "SPI": 1.865804935,
+  "SPI Historico": 2.2375751213
+},
+{
+  "Fecha": 1138752000000,
+  "Any": 2006,
+  "Mes": 2,
+  "Precipitacion": 19.1,
+  "Temperatura": 8.5,
+  "SPI": -0.6498711399,
+  "SPI Historico": -0.6661251211
+},
+{
+  "Fecha": 1141171200000,
+  "Any": 2006,
+  "Mes": 3,
+  "Precipitacion": 18.2,
+  "Temperatura": 12.0,
+  "SPI": -0.6671149211,
+  "SPI Historico": -0.6860286262
+},
+{
+  "Fecha": 1143849600000,
+  "Any": 2006,
+  "Mes": 4,
+  "Precipitacion": 7.2,
+  "Temperatura": 15.1,
+  "SPI": -0.8778722465,
+  "SPI Historico": -0.9292936884
+},
+{
+  "Fecha": 1146441600000,
+  "Any": 2006,
+  "Mes": 5,
+  "Precipitacion": 3.0,
+  "Temperatura": 18.7,
+  "SPI": -0.9583432253,
+  "SPI Historico": -1.0221767121
+},
+{
+  "Fecha": 1149120000000,
+  "Any": 2006,
+  "Mes": 6,
+  "Precipitacion": 1.5,
+  "Temperatura": 22.1,
+  "SPI": -0.9870828606,
+  "SPI Historico": -1.0553492206
+},
+{
+  "Fecha": 1151712000000,
+  "Any": 2006,
+  "Mes": 7,
+  "Precipitacion": 0.1,
+  "Temperatura": 27.1,
+  "SPI": -1.0139065202,
+  "SPI Historico": -1.0863102285
+},
+{
+  "Fecha": 1154390400000,
+  "Any": 2006,
+  "Mes": 8,
+  "Precipitacion": 43.7,
+  "Temperatura": 22.8,
+  "SPI": -0.1785411213,
+  "SPI Historico": -0.122095982
+},
+{
+  "Fecha": 1157068800000,
+  "Any": 2006,
+  "Mes": 9,
+  "Precipitacion": 154.1,
+  "Temperatura": 21.6,
+  "SPI": 1.9366960354,
+  "SPI Historico": 2.3194006423
+},
+{
+  "Fecha": 1159660800000,
+  "Any": 2006,
+  "Mes": 10,
+  "Precipitacion": 37.9,
+  "Temperatura": 18.8,
+  "SPI": -0.2896677111,
+  "SPI Historico": -0.2503630148
+},
+{
+  "Fecha": 1162339200000,
+  "Any": 2006,
+  "Mes": 11,
+  "Precipitacion": 1.5,
+  "Temperatura": 14.6,
+  "SPI": -0.9870828606,
+  "SPI Historico": -1.0553492206
+},
+{
+  "Fecha": 1164931200000,
+  "Any": 2006,
+  "Mes": 12,
+  "Precipitacion": 37.9,
+  "Temperatura": 10.0,
+  "SPI": -0.2896677111,
+  "SPI Historico": -0.2503630148
+},
+{
+  "Fecha": 1167609600000,
+  "Any": 2007,
+  "Mes": 1,
+  "Precipitacion": 6.2,
+  "Temperatura": 9.9,
+  "SPI": -0.886688016,
+  "SPI Historico": -0.951408694
+},
+{
+  "Fecha": 1170288000000,
+  "Any": 2007,
+  "Mes": 2,
+  "Precipitacion": 35.3,
+  "Temperatura": 11.4,
+  "SPI": -0.328673499,
+  "SPI Historico": -0.3078620295
+},
+{
+  "Fecha": 1172707200000,
+  "Any": 2007,
+  "Mes": 3,
+  "Precipitacion": 19.3,
+  "Temperatura": 12.1,
+  "SPI": -0.6354856045,
+  "SPI Historico": -0.66170212
+},
+{
+  "Fecha": 1175385600000,
+  "Any": 2007,
+  "Mes": 4,
+  "Precipitacion": 119.6,
+  "Temperatura": 15.0,
+  "SPI": 1.287842782,
+  "SPI Historico": 1.5564329472
+},
+{
+  "Fecha": 1177977600000,
+  "Any": 2007,
+  "Mes": 5,
+  "Precipitacion": 36.3,
+  "Temperatura": 17.9,
+  "SPI": -0.3094977424,
+  "SPI Historico": -0.2857470238
+},
+{
+  "Fecha": 1180656000000,
+  "Any": 2007,
+  "Mes": 6,
+  "Precipitacion": 0.0,
+  "Temperatura": 22.0,
+  "SPI": -1.0055777068,
+  "SPI Historico": -1.0885217291
+},
+{
+  "Fecha": 1183248000000,
+  "Any": 2007,
+  "Mes": 7,
+  "Precipitacion": 0.7,
+  "Temperatura": 23.6,
+  "SPI": -0.9921546772,
+  "SPI Historico": -1.0730412251
+},
+{
+  "Fecha": 1185926400000,
+  "Any": 2007,
+  "Mes": 8,
+  "Precipitacion": 91.7,
+  "Temperatura": 22.5,
+  "SPI": 0.752839173,
+  "SPI Historico": 0.9394242894
+},
+{
+  "Fecha": 1188604800000,
+  "Any": 2007,
+  "Mes": 9,
+  "Precipitacion": 9.9,
+  "Temperatura": 20.6,
+  "SPI": -0.8157377165,
+  "SPI Historico": -0.8695831731
+},
+{
+  "Fecha": 1191196800000,
+  "Any": 2007,
+  "Mes": 10,
+  "Precipitacion": 157.9,
+  "Temperatura": 16.4,
+  "SPI": 2.0222742597,
+  "SPI Historico": 2.4034376638
+},
+{
+  "Fecha": 1193875200000,
+  "Any": 2007,
+  "Mes": 11,
+  "Precipitacion": 1.0,
+  "Temperatura": 11.2,
+  "SPI": -0.9864019503,
+  "SPI Historico": -1.0664067234
+},
+{
+  "Fecha": 1196467200000,
+  "Any": 2007,
+  "Mes": 12,
+  "Precipitacion": 15.7,
+  "Temperatura": 8.8,
+  "SPI": -0.7045183283,
+  "SPI Historico": -0.7413161403
+},
+{
+  "Fecha": 1199145600000,
+  "Any": 2008,
+  "Mes": 1,
+  "Precipitacion": 29.8,
+  "Temperatura": 10.1,
+  "SPI": -0.4293568234,
+  "SPI Historico": -0.4294945606
+},
+{
+  "Fecha": 1201824000000,
+  "Any": 2008,
+  "Mes": 2,
+  "Precipitacion": 36.5,
+  "Temperatura": 10.2,
+  "SPI": -0.2989375887,
+  "SPI Historico": -0.2813240227
+},
+{
+  "Fecha": 1204329600000,
+  "Any": 2008,
+  "Mes": 3,
+  "Precipitacion": 25.6,
+  "Temperatura": 10.8,
+  "SPI": -0.5111121646,
+  "SPI Historico": -0.5223775843
+},
+{
+  "Fecha": 1207008000000,
+  "Any": 2008,
+  "Mes": 4,
+  "Precipitacion": 24.3,
+  "Temperatura": 13.7,
+  "SPI": -0.5364173892,
+  "SPI Historico": -0.5511270917
+},
+{
+  "Fecha": 1209600000000,
+  "Any": 2008,
+  "Mes": 5,
+  "Precipitacion": 120.9,
+  "Temperatura": 16.6,
+  "SPI": 1.3439554577,
+  "SPI Historico": 1.5851824545
+},
+{
+  "Fecha": 1212278400000,
+  "Any": 2008,
+  "Mes": 6,
+  "Precipitacion": 36.9,
+  "Temperatura": 20.7,
+  "SPI": -0.2911513657,
+  "SPI Historico": -0.2724780204
+},
+{
+  "Fecha": 1214870400000,
+  "Any": 2008,
+  "Mes": 7,
+  "Precipitacion": 55.9,
+  "Temperatura": 23.8,
+  "SPI": 0.0786942253,
+  "SPI Historico": 0.147707087
+},
+{
+  "Fecha": 1217548800000,
+  "Any": 2008,
+  "Mes": 8,
+  "Precipitacion": 11.8,
+  "Temperatura": 24.3,
+  "SPI": -0.779736857,
+  "SPI Historico": -0.8275646624
+},
+{
+  "Fecha": 1220227200000,
+  "Any": 2008,
+  "Mes": 9,
+  "Precipitacion": 25.8,
+  "Temperatura": 20.7,
+  "SPI": -0.5072190531,
+  "SPI Historico": -0.5179545832
+},
+{
+  "Fecha": 1222819200000,
+  "Any": 2008,
+  "Mes": 10,
+  "Precipitacion": 83.2,
+  "Temperatura": 16.5,
+  "SPI": 0.6101039429,
+  "SPI Historico": 0.7514467414
+},
+{
+  "Fecha": 1225497600000,
+  "Any": 2008,
+  "Mes": 11,
+  "Precipitacion": 51.6,
+  "Temperatura": 10.3,
+  "SPI": -0.0050076716,
+  "SPI Historico": 0.0526125627
+},
+{
+  "Fecha": 1228089600000,
+  "Any": 2008,
+  "Mes": 12,
+  "Precipitacion": 96.8,
+  "Temperatura": 7.5,
+  "SPI": 0.8748355238,
+  "SPI Historico": 1.0522108183
+},
+{
+  "Fecha": 1230768000000,
+  "Any": 2009,
+  "Mes": 1,
+  "Precipitacion": 68.9,
+  "Temperatura": 7.2,
+  "SPI": 0.3305824402,
+  "SPI Historico": 0.4352021605
+},
+{
+  "Fecha": 1233446400000,
+  "Any": 2009,
+  "Mes": 2,
+  "Precipitacion": 41.5,
+  "Temperatura": 8.7,
+  "SPI": -0.2025337209,
+  "SPI Historico": -0.1707489944
+},
+{
+  "Fecha": 1235865600000,
+  "Any": 2009,
+  "Mes": 3,
+  "Precipitacion": 74.1,
+  "Temperatura": 11.2,
+  "SPI": 0.43175777,
+  "SPI Historico": 0.5502001899
+},
+{
+  "Fecha": 1238544000000,
+  "Any": 2009,
+  "Mes": 4,
+  "Precipitacion": 88.8,
+  "Temperatura": 13.1,
+  "SPI": 0.7177726447,
+  "SPI Historico": 0.875290773
+},
+{
+  "Fecha": 1241136000000,
+  "Any": 2009,
+  "Mes": 5,
+  "Precipitacion": 15.0,
+  "Temperatura": 18.8,
+  "SPI": -0.7181387672,
+  "SPI Historico": -0.7567966443
+},
+{
+  "Fecha": 1243814400000,
+  "Any": 2009,
+  "Mes": 6,
+  "Precipitacion": 6.8,
+  "Temperatura": 23.0,
+  "SPI": -0.8776844797,
+  "SPI Historico": -0.9381396906
+},
+{
+  "Fecha": 1246406400000,
+  "Any": 2009,
+  "Mes": 7,
+  "Precipitacion": 45.0,
+  "Temperatura": 24.4,
+  "SPI": -0.1344349412,
+  "SPI Historico": -0.0933464746
+},
+{
+  "Fecha": 1249084800000,
+  "Any": 2009,
+  "Mes": 8,
+  "Precipitacion": 0.4,
+  "Temperatura": 26.3,
+  "SPI": -1.0022079625,
+  "SPI Historico": -1.0796757268
+},
+{
+  "Fecha": 1251763200000,
+  "Any": 2009,
+  "Mes": 9,
+  "Precipitacion": 29.3,
+  "Temperatura": 21.5,
+  "SPI": -0.4399066102,
+  "SPI Historico": -0.4405520634
+},
+{
+  "Fecha": 1254355200000,
+  "Any": 2009,
+  "Mes": 10,
+  "Precipitacion": 103.8,
+  "Temperatura": 17.9,
+  "SPI": 1.0096245578,
+  "SPI Historico": 1.2070158578
+},
+{
+  "Fecha": 1257033600000,
+  "Any": 2009,
+  "Mes": 11,
+  "Precipitacion": 4.8,
+  "Temperatura": 13.5,
+  "SPI": -0.9165980681,
+  "SPI Historico": -0.982369702
+},
+{
+  "Fecha": 1259625600000,
+  "Any": 2009,
+  "Mes": 12,
+  "Precipitacion": 45.9,
+  "Temperatura": 9.0,
+  "SPI": -0.1169238264,
+  "SPI Historico": -0.0734429696
+},
+{
+  "Fecha": 1262304000000,
+  "Any": 2010,
+  "Mes": 1,
+  "Precipitacion": 62.4,
+  "Temperatura": 6.6,
+  "SPI": 0.2128170493,
+  "SPI Historico": 0.2914546237
+},
+{
+  "Fecha": 1264982400000,
+  "Any": 2010,
+  "Mes": 2,
+  "Precipitacion": 95.9,
+  "Temperatura": 8.0,
+  "SPI": 0.8849560497,
+  "SPI Historico": 1.0323073132
+},
+{
+  "Fecha": 1267401600000,
+  "Any": 2010,
+  "Mes": 3,
+  "Precipitacion": 76.9,
+  "Temperatura": 9.6,
+  "SPI": 0.5037428853,
+  "SPI Historico": 0.6121222057
+},
+{
+  "Fecha": 1270080000000,
+  "Any": 2010,
+  "Mes": 4,
+  "Precipitacion": 24.1,
+  "Temperatura": 14.1,
+  "SPI": -0.5556284348,
+  "SPI Historico": -0.5555500928
+},
+{
+  "Fecha": 1272672000000,
+  "Any": 2010,
+  "Mes": 5,
+  "Precipitacion": 154.1,
+  "Temperatura": 15.4,
+  "SPI": 2.052672164,
+  "SPI Historico": 2.3194006423
+},
+{
+  "Fecha": 1275350400000,
+  "Any": 2010,
+  "Mes": 6,
+  "Precipitacion": 35.7,
+  "Temperatura": 20.3,
+  "SPI": -0.322887766,
+  "SPI Historico": -0.2990160272
+},
+{
+  "Fecha": 1277942400000,
+  "Any": 2010,
+  "Mes": 7,
+  "Precipitacion": 13.0,
+  "Temperatura": 25.7,
+  "SPI": -0.7783371783,
+  "SPI Historico": -0.8010266556
+},
+{
+  "Fecha": 1280620800000,
+  "Any": 2010,
+  "Mes": 8,
+  "Precipitacion": 24.5,
+  "Temperatura": 24.3,
+  "SPI": -0.5476028945,
+  "SPI Historico": -0.5467040906
+},
+{
+  "Fecha": 1283299200000,
+  "Any": 2010,
+  "Mes": 9,
+  "Precipitacion": 95.5,
+  "Temperatura": 20.9,
+  "SPI": 0.8769305094,
+  "SPI Historico": 1.0234613109
+},
+{
+  "Fecha": 1285891200000,
+  "Any": 2010,
+  "Mes": 10,
+  "Precipitacion": 91.5,
+  "Temperatura": 16.2,
+  "SPI": 0.7966751064,
+  "SPI Historico": 0.9350012883
+},
+{
+  "Fecha": 1288569600000,
+  "Any": 2010,
+  "Mes": 11,
+  "Precipitacion": 14.2,
+  "Temperatura": 11.0,
+  "SPI": -0.7542605574,
+  "SPI Historico": -0.7744886488
+},
+{
+  "Fecha": 1291161600000,
+  "Any": 2010,
+  "Mes": 12,
+  "Precipitacion": 32.8,
+  "Temperatura": 8.5,
+  "SPI": -0.3810729332,
+  "SPI Historico": -0.3631495436
+},
+{
+  "Fecha": 1293840000000,
+  "Any": 2011,
+  "Mes": 1,
+  "Precipitacion": 41.6,
+  "Temperatura": 8.4,
+  "SPI": -0.2167392675,
+  "SPI Historico": -0.1685374939
+},
+{
+  "Fecha": 1296518400000,
+  "Any": 2011,
+  "Mes": 2,
+  "Precipitacion": 24.4,
+  "Temperatura": 10.0,
+  "SPI": -0.5534682228,
+  "SPI Historico": -0.5489155911
+},
+{
+  "Fecha": 1298937600000,
+  "Any": 2011,
+  "Mes": 3,
+  "Precipitacion": 185.2,
+  "Temperatura": 10.9,
+  "SPI": 2.5945559636,
+  "SPI Historico": 3.0071773181
+},
+{
+  "Fecha": 1301616000000,
+  "Any": 2011,
+  "Mes": 4,
+  "Precipitacion": 18.4,
+  "Temperatura": 15.9,
+  "SPI": -0.6709318118,
+  "SPI Historico": -0.6816056251
+},
+{
+  "Fecha": 1304208000000,
+  "Any": 2011,
+  "Mes": 5,
+  "Precipitacion": 89.1,
+  "Temperatura": 18.3,
+  "SPI": 0.7131808124,
+  "SPI Historico": 0.8819252747
+},
+{
+  "Fecha": 1306886400000,
+  "Any": 2011,
+  "Mes": 6,
+  "Precipitacion": 109.4,
+  "Temperatura": 19.5,
+  "SPI": 1.1105992887,
+  "SPI Historico": 1.3308598895
+},
+{
+  "Fecha": 1309478400000,
+  "Any": 2011,
+  "Mes": 7,
+  "Precipitacion": 104.8,
+  "Temperatura": 21.2,
+  "SPI": 1.0205438704,
+  "SPI Historico": 1.2291308635
+},
+{
+  "Fecha": 1312156800000,
+  "Any": 2011,
+  "Mes": 8,
+  "Precipitacion": 0.8,
+  "Temperatura": 24.1,
+  "SPI": -1.015491673,
+  "SPI Historico": -1.0708297246
+},
+{
+  "Fecha": 1314835200000,
+  "Any": 2011,
+  "Mes": 9,
+  "Precipitacion": 7.3,
+  "Temperatura": 22.9,
+  "SPI": -0.8882394516,
+  "SPI Historico": -0.9270821878
+},
+{
+  "Fecha": 1317427200000,
+  "Any": 2011,
+  "Mes": 10,
+  "Precipitacion": 81.4,
+  "Temperatura": 19.1,
+  "SPI": 0.5624358731,
+  "SPI Historico": 0.7116397312
+},
+{
+  "Fecha": 1320105600000,
+  "Any": 2011,
+  "Mes": 11,
+  "Precipitacion": 203.1,
+  "Temperatura": 14.1,
+  "SPI": 2.9449890042,
+  "SPI Historico": 3.4030359193
+},
+{
+  "Fecha": 1322697600000,
+  "Any": 2011,
+  "Mes": 12,
+  "Precipitacion": 0.0,
+  "Temperatura": 10.2,
+  "SPI": -1.0311534849,
+  "SPI Historico": -1.0885217291
+},
+{
+  "Fecha": 1325376000000,
+  "Any": 2012,
+  "Mes": 1,
+  "Precipitacion": 4.8,
+  "Temperatura": 9.4,
+  "SPI": -0.9280001993,
+  "SPI Historico": -0.982369702
+},
+{
+  "Fecha": 1328054400000,
+  "Any": 2012,
+  "Mes": 2,
+  "Precipitacion": 11.1,
+  "Temperatura": 6.8,
+  "SPI": -0.8056754152,
+  "SPI Historico": -0.8430451663
+},
+{
+  "Fecha": 1330560000000,
+  "Any": 2012,
+  "Mes": 3,
+  "Precipitacion": 33.0,
+  "Temperatura": 13.4,
+  "SPI": -0.3804511655,
+  "SPI Historico": -0.3587265425
+},
+{
+  "Fecha": 1333238400000,
+  "Any": 2012,
+  "Mes": 4,
+  "Precipitacion": 83.2,
+  "Temperatura": 12.6,
+  "SPI": 0.5942637811,
+  "SPI Historico": 0.7514467414
+},
+{
+  "Fecha": 1335830400000,
+  "Any": 2012,
+  "Mes": 5,
+  "Precipitacion": 33.4,
+  "Temperatura": 17.9,
+  "SPI": -0.3726845126,
+  "SPI Historico": -0.3498805402
+},
+{
+  "Fecha": 1338508800000,
+  "Any": 2012,
+  "Mes": 6,
+  "Precipitacion": 2.9,
+  "Temperatura": 22.3,
+  "SPI": -0.9648918009,
+  "SPI Historico": -1.0243882127
+},
+{
+  "Fecha": 1341100800000,
+  "Any": 2012,
+  "Mes": 7,
+  "Precipitacion": 21.9,
+  "Temperatura": 23.2,
+  "SPI": -0.5959757852,
+  "SPI Historico": -0.6042031053
+},
+{
+  "Fecha": 1343779200000,
+  "Any": 2012,
+  "Mes": 8,
+  "Precipitacion": 17.4,
+  "Temperatura": 26.0,
+  "SPI": -0.683350631,
+  "SPI Historico": -0.7037206307
+},
+{
+  "Fecha": 1346457600000,
+  "Any": 2012,
+  "Mes": 9,
+  "Precipitacion": 81.6,
+  "Temperatura": 21.4,
+  "SPI": 0.5631971692,
+  "SPI Historico": 0.7160627323
+},
+{
+  "Fecha": 1349049600000,
+  "Any": 2012,
+  "Mes": 10,
+  "Precipitacion": 145.9,
+  "Temperatura": 17.3,
+  "SPI": 1.8116866327,
+  "SPI Historico": 2.1380575959
+},
+{
+  "Fecha": 1351728000000,
+  "Any": 2012,
+  "Mes": 11,
+  "Precipitacion": 38.8,
+  "Temperatura": 12.7,
+  "SPI": -0.2678346976,
+  "SPI Historico": -0.2304595097
+},
+{
+  "Fecha": 1354320000000,
+  "Any": 2012,
+  "Mes": 12,
+  "Precipitacion": 5.7,
+  "Temperatura": 9.9,
+  "SPI": -0.9105252301,
+  "SPI Historico": -0.9624661969
+},
+{
+  "Fecha": 1356998400000,
+  "Any": 2013,
+  "Mes": 1,
+  "Precipitacion": 32.5,
+  "Temperatura": 9.1,
+  "SPI": -0.3857933285,
+  "SPI Historico": -0.3697840453
+},
+{
+  "Fecha": 1359676800000,
+  "Any": 2013,
+  "Mes": 2,
+  "Precipitacion": 35.7,
+  "Temperatura": 7.7,
+  "SPI": -0.3232348048,
+  "SPI Historico": -0.2990160272
+},
+{
+  "Fecha": 1362096000000,
+  "Any": 2013,
+  "Mes": 3,
+  "Precipitacion": 137.0,
+  "Temperatura": 11.2,
+  "SPI": 1.6571334606,
+  "SPI Historico": 1.9412340456
+},
+{
+  "Fecha": 1364774400000,
+  "Any": 2013,
+  "Mes": 4,
+  "Precipitacion": 90.4,
+  "Temperatura": 13.5,
+  "SPI": 0.7461249594,
+  "SPI Historico": 0.9106747821
+},
+{
+  "Fecha": 1367366400000,
+  "Any": 2013,
+  "Mes": 5,
+  "Precipitacion": 67.4,
+  "Temperatura": 14.6,
+  "SPI": 0.2964855705,
+  "SPI Historico": 0.402029652
+},
+{
+  "Fecha": 1370044800000,
+  "Any": 2013,
+  "Mes": 6,
+  "Precipitacion": 19.0,
+  "Temperatura": 19.5,
+  "SPI": -0.6497121003,
+  "SPI Historico": -0.6683366217
+},
+{
+  "Fecha": 1372636800000,
+  "Any": 2013,
+  "Mes": 7,
+  "Precipitacion": 14.9,
+  "Temperatura": 25.6,
+  "SPI": -0.7298652087,
+  "SPI Historico": -0.7590081448
+},
+{
+  "Fecha": 1375315200000,
+  "Any": 2013,
+  "Mes": 8,
+  "Precipitacion": 5.0,
+  "Temperatura": 24.9,
+  "SPI": -0.9234056414,
+  "SPI Historico": -0.9779467008
+},
+{
+  "Fecha": 1377993600000,
+  "Any": 2013,
+  "Mes": 9,
+  "Precipitacion": 22.6,
+  "Temperatura": 22.0,
+  "SPI": -0.5793337611,
+  "SPI Historico": -0.5887226013
+},
+{
+  "Fecha": 1380585600000,
+  "Any": 2013,
+  "Mes": 10,
+  "Precipitacion": 28.8,
+  "Temperatura": 19.5,
+  "SPI": -0.4581266215,
+  "SPI Historico": -0.4516095662
+},
+{
+  "Fecha": 1383264000000,
+  "Any": 2013,
+  "Mes": 11,
+  "Precipitacion": 110.5,
+  "Temperatura": 12.2,
+  "SPI": 1.1390706863,
+  "SPI Historico": 1.3551863957
+},
+{
+  "Fecha": 1385856000000,
+  "Any": 2013,
+  "Mes": 12,
+  "Precipitacion": 16.2,
+  "Temperatura": 10.1,
+  "SPI": -0.7044508085,
+  "SPI Historico": -0.7302586375
+},
+{
+  "Fecha": 1388534400000,
+  "Any": 2014,
+  "Mes": 1,
+  "Precipitacion": 43.0,
+  "Temperatura": 9.8,
+  "SPI": -0.1876419751,
+  "SPI Historico": -0.137576486
+},
+{
+  "Fecha": 1391212800000,
+  "Any": 2014,
+  "Mes": 2,
+  "Precipitacion": 22.8,
+  "Temperatura": 10.1,
+  "SPI": -0.5964847198,
+  "SPI Historico": -0.5842996002
+},
+{
+  "Fecha": 1393632000000,
+  "Any": 2014,
+  "Mes": 3,
+  "Precipitacion": 30.0,
+  "Temperatura": 12.3,
+  "SPI": -0.450758593,
+  "SPI Historico": -0.4250715595
+},
+{
+  "Fecha": 1396310400000,
+  "Any": 2014,
+  "Mes": 4,
+  "Precipitacion": 76.5,
+  "Temperatura": 15.3,
+  "SPI": 0.4903893093,
+  "SPI Historico": 0.6032762035
+},
+{
+  "Fecha": 1398902400000,
+  "Any": 2014,
+  "Mes": 5,
+  "Precipitacion": 50.8,
+  "Temperatura": 16.2,
+  "SPI": -0.0297720044,
+  "SPI Historico": 0.0349205582
+},
+{
+  "Fecha": 1401580800000,
+  "Any": 2014,
+  "Mes": 6,
+  "Precipitacion": 27.8,
+  "Temperatura": 21.7,
+  "SPI": -0.4952860206,
+  "SPI Historico": -0.4737245719
+},
+{
+  "Fecha": 1404172800000,
+  "Any": 2014,
+  "Mes": 7,
+  "Precipitacion": 85.0,
+  "Temperatura": 22.6,
+  "SPI": 0.6624270979,
+  "SPI Historico": 0.7912537515
+},
+{
+  "Fecha": 1406851200000,
+  "Any": 2014,
+  "Mes": 8,
+  "Precipitacion": 25.1,
+  "Temperatura": 23.0,
+  "SPI": -0.5499333182,
+  "SPI Historico": -0.5334350872
+},
+{
+  "Fecha": 1409529600000,
+  "Any": 2014,
+  "Mes": 9,
+  "Precipitacion": 155.6,
+  "Temperatura": 22.0,
+  "SPI": 2.0913527303,
+  "SPI Historico": 2.3525731508
+},
+{
+  "Fecha": 1412121600000,
+  "Any": 2014,
+  "Mes": 10,
+  "Precipitacion": 10.2,
+  "Temperatura": 19.6,
+  "SPI": -0.8515054417,
+  "SPI Historico": -0.8629486714
+},
+{
+  "Fecha": 1414800000000,
+  "Any": 2014,
+  "Mes": 11,
+  "Precipitacion": 143.0,
+  "Temperatura": 13.6,
+  "SPI": 1.8363320084,
+  "SPI Historico": 2.0739240795
+},
+{
+  "Fecha": 1417392000000,
+  "Any": 2014,
+  "Mes": 12,
+  "Precipitacion": 22.6,
+  "Temperatura": 9.1,
+  "SPI": -0.6005326677,
+  "SPI Historico": -0.5887226013
+},
+{
+  "Fecha": 1420070400000,
+  "Any": 2015,
+  "Mes": 1,
+  "Precipitacion": 13.5,
+  "Temperatura": 9.1,
+  "SPI": -0.7764861951,
+  "SPI Historico": -0.7899691528
+},
+{
+  "Fecha": 1422748800000,
+  "Any": 2015,
+  "Mes": 2,
+  "Precipitacion": 11.3,
+  "Temperatura": 8.2,
+  "SPI": -0.8215589527,
+  "SPI Historico": -0.8386221652
+},
+{
+  "Fecha": 1425168000000,
+  "Any": 2015,
+  "Mes": 3,
+  "Precipitacion": 48.0,
+  "Temperatura": 12.0,
+  "SPI": -0.0696634055,
+  "SPI Historico": -0.0270014577
+},
+{
+  "Fecha": 1427846400000,
+  "Any": 2015,
+  "Mes": 4,
+  "Precipitacion": 12.5,
+  "Temperatura": 14.8,
+  "SPI": -0.7969738122,
+  "SPI Historico": -0.8120841584
+},
+{
+  "Fecha": 1430438400000,
+  "Any": 2015,
+  "Mes": 5,
+  "Precipitacion": 53.2,
+  "Temperatura": 19.1,
+  "SPI": 0.0368722033,
+  "SPI Historico": 0.0879965717
+},
+{
+  "Fecha": 1433116800000,
+  "Any": 2015,
+  "Mes": 6,
+  "Precipitacion": 10.8,
+  "Temperatura": 23.2,
+  "SPI": -0.8318027612,
+  "SPI Historico": -0.849679668
+},
+{
+  "Fecha": 1435708800000,
+  "Any": 2015,
+  "Mes": 7,
+  "Precipitacion": 26.2,
+  "Temperatura": 26.0,
+  "SPI": -0.5162934581,
+  "SPI Historico": -0.5091085809
+},
+{
+  "Fecha": 1438387200000,
+  "Any": 2015,
+  "Mes": 8,
+  "Precipitacion": 41.0,
+  "Temperatura": 23.5,
+  "SPI": -0.2130767251,
+  "SPI Historico": -0.1818064973
+},
+{
+  "Fecha": 1441065600000,
+  "Any": 2015,
+  "Mes": 9,
+  "Precipitacion": 60.7,
+  "Temperatura": 19.7,
+  "SPI": 0.1905293315,
+  "SPI Historico": 0.2538591141
+},
+{
+  "Fecha": 1443657600000,
+  "Any": 2015,
+  "Mes": 10,
+  "Precipitacion": 29.6,
+  "Temperatura": 16.7,
+  "SPI": -0.44663556,
+  "SPI Historico": -0.4339175617
+},
+{
+  "Fecha": 1446336000000,
+  "Any": 2015,
+  "Mes": 11,
+  "Precipitacion": 38.7,
+  "Temperatura": 14.3,
+  "SPI": -0.2601982444,
+  "SPI Historico": -0.2326710103
+},
+{
+  "Fecha": 1448928000000,
+  "Any": 2015,
+  "Mes": 12,
+  "Precipitacion": 0.3,
+  "Temperatura": 12.6,
+  "SPI": -1.0469227406,
+  "SPI Historico": -1.0818872274
+},
+{
+  "Fecha": 1451606400000,
+  "Any": 2016,
+  "Mes": 1,
+  "Precipitacion": 1.1,
+  "Temperatura": 10.7,
+  "SPI": -1.0384981892,
+  "SPI Historico": -1.0641952229
+},
+{
+  "Fecha": 1454284800000,
+  "Any": 2016,
+  "Mes": 2,
+  "Precipitacion": 39.9,
+  "Temperatura": 11.3,
+  "SPI": -0.2381314942,
+  "SPI Historico": -0.2061330035
+},
+{
+  "Fecha": 1456790400000,
+  "Any": 2016,
+  "Mes": 3,
+  "Precipitacion": 44.2,
+  "Temperatura": 11.1,
+  "SPI": -0.1494310615,
+  "SPI Historico": -0.1110384792
+},
+{
+  "Fecha": 1459468800000,
+  "Any": 2016,
+  "Mes": 4,
+  "Precipitacion": 68.1,
+  "Temperatura": 13.6,
+  "SPI": 0.3435783202,
+  "SPI Historico": 0.417510156
+},
+{
+  "Fecha": 1462060800000,
+  "Any": 2016,
+  "Mes": 5,
+  "Precipitacion": 28.7,
+  "Temperatura": 16.4,
+  "SPI": -0.4691651793,
+  "SPI Historico": -0.4538210668
+},
+{
+  "Fecha": 1464739200000,
+  "Any": 2016,
+  "Mes": 6,
+  "Precipitacion": 19.4,
+  "Temperatura": 21.6,
+  "SPI": -0.66100565,
+  "SPI Historico": -0.6594906194
+},
+{
+  "Fecha": 1467331200000,
+  "Any": 2016,
+  "Mes": 7,
+  "Precipitacion": 16.9,
+  "Temperatura": 24.9,
+  "SPI": -0.7125756691,
+  "SPI Historico": -0.7147781335
+},
+{
+  "Fecha": 1470009600000,
+  "Any": 2016,
+  "Mes": 8,
+  "Precipitacion": 17.6,
+  "Temperatura": 24.5,
+  "SPI": -0.6981360637,
+  "SPI Historico": -0.6992976296
+},
+{
+  "Fecha": 1472688000000,
+  "Any": 2016,
+  "Mes": 9,
+  "Precipitacion": 95.7,
+  "Temperatura": 22.3,
+  "SPI": 0.91291133,
+  "SPI Historico": 1.027884312
+},
+{
+  "Fecha": 1475280000000,
+  "Any": 2016,
+  "Mes": 10,
+  "Precipitacion": 75.8,
+  "Temperatura": 17.1,
+  "SPI": 0.5024139787,
+  "SPI Historico": 0.5877956995
+},
+{
+  "Fecha": 1477958400000,
+  "Any": 2016,
+  "Mes": 11,
+  "Precipitacion": 38.5,
+  "Temperatura": 12.7,
+  "SPI": -0.2670107049,
+  "SPI Historico": -0.2370940114
+},
+{
+  "Fecha": 1480550400000,
+  "Any": 2016,
+  "Mes": 12,
+  "Precipitacion": 34.3,
+  "Temperatura": 11.5,
+  "SPI": -0.3536483368,
+  "SPI Historico": -0.3299770351
+},
+{
+  "Fecha": 1483228800000,
+  "Any": 2017,
+  "Mes": 1,
+  "Precipitacion": 32.0,
+  "Temperatura": 7.9,
+  "SPI": -0.3946789769,
+  "SPI Historico": -0.3808415482
+},
+{
+  "Fecha": 1485907200000,
+  "Any": 2017,
+  "Mes": 2,
+  "Precipitacion": 31.2,
+  "Temperatura": 11.4,
+  "SPI": -0.4110695469,
+  "SPI Historico": -0.3985335527
+},
+{
+  "Fecha": 1488326400000,
+  "Any": 2017,
+  "Mes": 3,
+  "Precipitacion": 136.4,
+  "Temperatura": 13.3,
+  "SPI": 1.7442904053,
+  "SPI Historico": 1.9279650422
+},
+{
+  "Fecha": 1491004800000,
+  "Any": 2017,
+  "Mes": 4,
+  "Precipitacion": 48.1,
+  "Temperatura": 14.2,
+  "SPI": -0.0648187561,
+  "SPI Historico": -0.0247899571
+},
+{
+  "Fecha": 1493596800000,
+  "Any": 2017,
+  "Mes": 5,
+  "Precipitacion": 20.4,
+  "Temperatura": 18.3,
+  "SPI": -0.6323422416,
+  "SPI Historico": -0.6373756137
+},
+{
+  "Fecha": 1496275200000,
+  "Any": 2017,
+  "Mes": 6,
+  "Precipitacion": 25.9,
+  "Temperatura": 23.6,
+  "SPI": -0.519657073,
+  "SPI Historico": -0.5157430826
+},
+{
+  "Fecha": 1498867200000,
+  "Any": 2017,
+  "Mes": 7,
+  "Precipitacion": 7.2,
+  "Temperatura": 24.2,
+  "SPI": -0.9027866462,
+  "SPI Historico": -0.9292936884
+},
+{
+  "Fecha": 1501545600000,
+  "Any": 2017,
+  "Mes": 8,
+  "Precipitacion": 17.4,
+  "Temperatura": 24.5,
+  "SPI": -0.693806879,
+  "SPI Historico": -0.7037206307
+},
+{
+  "Fecha": 1504224000000,
+  "Any": 2017,
+  "Mes": 9,
+  "Precipitacion": 53.3,
+  "Temperatura": 19.5,
+  "SPI": 0.0417199488,
+  "SPI Historico": 0.0902080723
+},
+{
+  "Fecha": 1506816000000,
+  "Any": 2017,
+  "Mes": 10,
+  "Precipitacion": 128.2,
+  "Temperatura": 18.6,
+  "SPI": 1.5762870631,
+  "SPI Historico": 1.7466219958
+},
+{
+  "Fecha": 1509494400000,
+  "Any": 2017,
+  "Mes": 11,
+  "Precipitacion": 15.2,
+  "Temperatura": 12.5,
+  "SPI": -0.7388809465,
+  "SPI Historico": -0.7523736431
+},
+{
+  "Fecha": 1512086400000,
+  "Any": 2017,
+  "Mes": 12,
+  "Precipitacion": 3.1,
+  "Temperatura": 8.5,
+  "SPI": -0.9867883174,
+  "SPI Historico": -1.0199652116
+},
+{
+  "Fecha": 1514764800000,
+  "Any": 2018,
+  "Mes": 1,
+  "Precipitacion": 63.6,
+  "Temperatura": 10.5,
+  "SPI": 0.2578489659,
+  "SPI Historico": 0.3179926305
+},
+{
+  "Fecha": 1517443200000,
+  "Any": 2018,
+  "Mes": 2,
+  "Precipitacion": 104.6,
+  "Temperatura": 6.7,
+  "SPI": 1.1158828335,
+  "SPI Historico": 1.2247078624
+},
+{
+  "Fecha": 1519862400000,
+  "Any": 2018,
+  "Mes": 3,
+  "Precipitacion": 112.5,
+  "Temperatura": 10.8,
+  "SPI": 1.2812113105,
+  "SPI Historico": 1.399416407
+},
+{
+  "Fecha": 1522540800000,
+  "Any": 2018,
+  "Mes": 4,
+  "Precipitacion": 83.0,
+  "Temperatura": 14.7,
+  "SPI": 0.6638454789,
+  "SPI Historico": 0.7470237402
+},
+{
+  "Fecha": 1525132800000,
+  "Any": 2018,
+  "Mes": 5,
+  "Precipitacion": 30.3,
+  "Temperatura": 17.1,
+  "SPI": -0.4390419558,
+  "SPI Historico": -0.4184370578
+},
+{
+  "Fecha": 1527811200000,
+  "Any": 2018,
+  "Mes": 6,
+  "Precipitacion": 53.1,
+  "Temperatura": 21.5,
+  "SPI": 0.0381085852,
+  "SPI Historico": 0.0857850712
+},
+{
+  "Fecha": 1530403200000,
+  "Any": 2018,
+  "Mes": 7,
+  "Precipitacion": 51.5,
+  "Temperatura": 25.3,
+  "SPI": 0.0046243367,
+  "SPI Historico": 0.0504010621
+},
+{
+  "Fecha": 1533081600000,
+  "Any": 2018,
+  "Mes": 8,
+  "Precipitacion": 36.5,
+  "Temperatura": 25.8,
+  "SPI": -0.3092904929,
+  "SPI Historico": -0.2813240227
+},
+{
+  "Fecha": 1535760000000,
+  "Any": 2018,
+  "Mes": 9,
+  "Precipitacion": 44.4,
+  "Temperatura": 22.5,
+  "SPI": -0.1439620159,
+  "SPI Historico": -0.106615478
+},
+{
+  "Fecha": 1538352000000,
+  "Any": 2018,
+  "Mes": 10,
+  "Precipitacion": 201.9,
+  "Temperatura": 17.0,
+  "SPI": 3.1521436949,
+  "SPI Historico": 3.3764979126
+},
+{
+  "Fecha": 1541030400000,
+  "Any": 2018,
+  "Mes": 11,
+  "Precipitacion": 201.8,
+  "Temperatura": 12.4,
+  "SPI": 3.1500509293,
+  "SPI Historico": 3.374286412
+},
+{
+  "Fecha": 1543622400000,
+  "Any": 2018,
+  "Mes": 12,
+  "Precipitacion": 4.8,
+  "Temperatura": 11.1,
+  "SPI": -0.9726971661,
+  "SPI Historico": -0.982369702
+},
+{
+  "Fecha": 1546300800000,
+  "Any": 2019,
+  "Mes": 1,
+  "Precipitacion": 18.2,
+  "Temperatura": 8.1,
+  "SPI": -0.6941420612,
+  "SPI Historico": -0.6860286262
+},
+{
+  "Fecha": 1548979200000,
+  "Any": 2019,
+  "Mes": 2,
+  "Precipitacion": 4.6,
+  "Temperatura": 11.9,
+  "SPI": -0.9809650667,
+  "SPI Historico": -0.9867927031
+},
+{
+  "Fecha": 1551398400000,
+  "Any": 2019,
+  "Mes": 3,
+  "Precipitacion": 0.3,
+  "Temperatura": 13.5,
+  "SPI": -1.0716517523,
+  "SPI Historico": -1.0818872274
+},
+{
+  "Fecha": 1554076800000,
+  "Any": 2019,
+  "Mes": 4,
+  "Precipitacion": 36.2,
+  "Temperatura": 13.4,
+  "SPI": -0.3145233773,
+  "SPI Historico": -0.2879585244
+},
+{
+  "Fecha": 1556668800000,
+  "Any": 2019,
+  "Mes": 5,
+  "Precipitacion": 109.0,
+  "Temperatura": 15.6,
+  "SPI": 1.2208232997,
+  "SPI Historico": 1.3220138873
+},
+{
+  "Fecha": 1559347200000,
+  "Any": 2019,
+  "Mes": 6,
+  "Precipitacion": 19.3,
+  "Temperatura": 21.9,
+  "SPI": -0.6709431416,
+  "SPI Historico": -0.66170212
+},
+{
+  "Fecha": 1561939200000,
+  "Any": 2019,
+  "Mes": 7,
+  "Precipitacion": 75.8,
+  "Temperatura": 25.4,
+  "SPI": 0.5206377272,
+  "SPI Historico": 0.5877956995
+},
+{
+  "Fecha": 1564617600000,
+  "Any": 2019,
+  "Mes": 8,
+  "Precipitacion": 23.1,
+  "Temperatura": 25.1,
+  "SPI": -0.5908014194,
+  "SPI Historico": -0.5776650985
+},
+{
+  "Fecha": 1567296000000,
+  "Any": 2019,
+  "Mes": 9,
+  "Precipitacion": 71.5,
+  "Temperatura": 21.8,
+  "SPI": 0.4299510416,
+  "SPI Historico": 0.4927011752
+},
+{
+  "Fecha": 1569888000000,
+  "Any": 2019,
+  "Mes": 10,
+  "Precipitacion": 83.2,
+  "Temperatura": 18.5,
+  "SPI": 0.6767031861,
+  "SPI Historico": 0.7514467414
+},
+{
+  "Fecha": 1572566400000,
+  "Any": 2019,
+  "Mes": 11,
+  "Precipitacion": 39.4,
+  "Temperatura": 11.9,
+  "SPI": -0.2470356113,
+  "SPI Historico": -0.2171905063
+},
+{
+  "Fecha": 1575158400000,
+  "Any": 2019,
+  "Mes": 12,
+  "Precipitacion": 119.2,
+  "Temperatura": 11.2,
+  "SPI": 1.4359405539,
+  "SPI Historico": 1.5475869449
+},
+{
+  "Fecha": 1577836800000,
+  "Any": 2020,
+  "Mes": 1,
+  "Precipitacion": 89.3,
+  "Temperatura": 10.0,
+  "SPI": 0.7770604293,
+  "SPI Historico": 0.8863482759
+},
+{
+  "Fecha": 1580515200000,
+  "Any": 2020,
+  "Mes": 2,
+  "Precipitacion": 2.8,
+  "Temperatura": 12.8,
+  "SPI": -1.0113718467,
+  "SPI Historico": -1.0265997133
+},
+{
+  "Fecha": 1583020800000,
+  "Any": 2020,
+  "Mes": 3,
+  "Precipitacion": 61.6,
+  "Temperatura": 11.9,
+  "SPI": 0.2043485906,
+  "SPI Historico": 0.2737626192
+},
+{
+  "Fecha": 1585699200000,
+  "Any": 2020,
+  "Mes": 4,
+  "Precipitacion": 258.7,
+  "Temperatura": 14.3,
+  "SPI": 4.2794931179,
+  "SPI Historico": 4.6326302337
+},
+{
+  "Fecha": 1588291200000,
+  "Any": 2020,
+  "Mes": 5,
+  "Precipitacion": 29.2,
+  "Temperatura": 19.4,
+  "SPI": -0.465538181,
+  "SPI Historico": -0.442763564
+},
+{
+  "Fecha": 1590969600000,
+  "Any": 2020,
+  "Mes": 6,
+  "Precipitacion": 69.1,
+  "Temperatura": 20.1,
+  "SPI": 0.359414973,
+  "SPI Historico": 0.4396251616
+},
+{
+  "Fecha": 1593561600000,
+  "Any": 2020,
+  "Mes": 7,
+  "Precipitacion": 23.1,
+  "Temperatura": 25.0,
+  "SPI": -0.5916588386,
+  "SPI Historico": -0.5776650985
+},
+{
+  "Fecha": 1596240000000,
+  "Any": 2020,
+  "Mes": 8,
+  "Precipitacion": 12.4,
+  "Temperatura": 25.5,
+  "SPI": -0.8128868774,
+  "SPI Historico": -0.814295659
+},
+{
+  "Fecha": 1598918400000,
+  "Any": 2020,
+  "Mes": 9,
+  "Precipitacion": 60.2,
+  "Temperatura": 21.7,
+  "SPI": 0.1754028659,
+  "SPI Historico": 0.2428016113
+},
+{
+  "Fecha": 1601510400000,
+  "Any": 2020,
+  "Mes": 10,
+  "Precipitacion": 23.1,
+  "Temperatura": 16.4,
+  "SPI": -0.5916588386,
+  "SPI Historico": -0.5776650985
+},
+{
+  "Fecha": 1604188800000,
+  "Any": 2020,
+  "Mes": 11,
+  "Precipitacion": 52.5,
+  "Temperatura": 14.7,
+  "SPI": 0.0162013801,
+  "SPI Historico": 0.0725160678
+},
+{
+  "Fecha": 1606780800000,
+  "Any": 2020,
+  "Mes": 12,
+  "Precipitacion": 41.5,
+  "Temperatura": 9.3,
+  "SPI": -0.211229314,
+  "SPI Historico": -0.1707489944
+},
+{
+  "Fecha": 1609459200000,
+  "Any": 2021,
+  "Mes": 1,
+  "Precipitacion": 26.2,
+  "Temperatura": 7.7,
+  "SPI": -0.5159731285,
+  "SPI Historico": -0.5091085809
+},
+{
+  "Fecha": 1612137600000,
+  "Any": 2021,
+  "Mes": 2,
+  "Precipitacion": 26.5,
+  "Temperatura": 11.6,
+  "SPI": -0.5097289461,
+  "SPI Historico": -0.5024740793
+},
+{
+  "Fecha": 1614556800000,
+  "Any": 2021,
+  "Mes": 3,
+  "Precipitacion": 7.7,
+  "Temperatura": 12.1,
+  "SPI": -0.9010310424,
+  "SPI Historico": -0.9182361856
+},
+{
+  "Fecha": 1617235200000,
+  "Any": 2021,
+  "Mes": 4,
+  "Precipitacion": 62.7,
+  "Temperatura": 12.9,
+  "SPI": 0.2437357286,
+  "SPI Historico": 0.2980891254
+},
+{
+  "Fecha": 1619827200000,
+  "Any": 2021,
+  "Mes": 5,
+  "Precipitacion": 13.4,
+  "Temperatura": 17.3,
+  "SPI": -0.7823915771,
+  "SPI Historico": -0.7921806533
+},
+{
+  "Fecha": 1622505600000,
+  "Any": 2021,
+  "Mes": 6,
+  "Precipitacion": 7.8,
+  "Temperatura": 23.3,
+  "SPI": -0.8989496483,
+  "SPI Historico": -0.916024685
+},
+{
+  "Fecha": 1625097600000,
+  "Any": 2021,
+  "Mes": 7,
+  "Precipitacion": 9.0,
+  "Temperatura": 24.8,
+  "SPI": -0.8739729187,
+  "SPI Historico": -0.8894866782
+},
+{
+  "Fecha": 1627776000000,
+  "Any": 2021,
+  "Mes": 8,
+  "Precipitacion": 8.3,
+  "Temperatura": 24.5,
+  "SPI": -0.8885426777,
+  "SPI Historico": -0.9049671822
+},
+{
+  "Fecha": 1630454400000,
+  "Any": 2021,
+  "Mes": 9,
+  "Precipitacion": 23.3,
+  "Temperatura": 23.0,
+  "SPI": -0.5763335583,
+  "SPI Historico": -0.5732420973
+},
+{
+  "Fecha": 1633046400000,
+  "Any": 2021,
+  "Mes": 10,
+  "Precipitacion": 63.2,
+  "Temperatura": 18.1,
+  "SPI": 0.2541426993,
+  "SPI Historico": 0.3091466283
+},
+{
+  "Fecha": 1635724800000,
+  "Any": 2021,
+  "Mes": 11,
+  "Precipitacion": 75.9,
+  "Temperatura": 11.3,
+  "SPI": 0.5184797537,
+  "SPI Historico": 0.5900072001
+},
+{
+  "Fecha": 1638316800000,
+  "Any": 2021,
+  "Mes": 12,
+  "Precipitacion": 3.8,
+  "Temperatura": 10.9,
+  "SPI": -0.9822054135,
+  "SPI Historico": -1.0044847076
+},
+{
+  "Fecha": 1640995200000,
+  "Any": 2022,
+  "Mes": 1,
+  "Precipitacion": 12.3,
+  "Temperatura": 10.2,
+  "SPI": -0.7837726661,
+  "SPI Historico": -0.8165071595
+},
+{
+  "Fecha": 1643673600000,
+  "Any": 2022,
+  "Mes": 2,
+  "Precipitacion": 1.9,
+  "Temperatura": 11.8,
+  "SPI": -1.0022194416,
+  "SPI Historico": -1.0465032184
+},
+{
+  "Fecha": 1646092800000,
+  "Any": 2022,
+  "Mes": 3,
+  "Precipitacion": 89.5,
+  "Temperatura": 10.8,
+  "SPI": 0.837774552,
+  "SPI Historico": 0.890771277
+},
+{
+  "Fecha": 1648771200000,
+  "Any": 2022,
+  "Mes": 4,
+  "Precipitacion": 38.9,
+  "Temperatura": 14.1,
+  "SPI": -0.2250530288,
+  "SPI Historico": -0.2282480091
+},
+{
+  "Fecha": 1651363200000,
+  "Any": 2022,
+  "Mes": 5,
+  "Precipitacion": 20.0,
+  "Temperatura": 20.7,
+  "SPI": -0.6220380342,
+  "SPI Historico": -0.646221616
+},
+{
+  "Fecha": 1654041600000,
+  "Any": 2022,
+  "Mes": 6,
+  "Precipitacion": 9.5,
+  "Temperatura": 24.7,
+  "SPI": -0.8425852595,
+  "SPI Historico": -0.8784291754
+},
+{
+  "Fecha": 1656633600000,
+  "Any": 2022,
+  "Mes": 7,
+  "Precipitacion": 2.7,
+  "Temperatura": 26.7,
+  "SPI": -0.9854158435,
+  "SPI Historico": -1.0288112138
+},
+{
+  "Fecha": 1659312000000,
+  "Any": 2022,
+  "Mes": 8,
+  "Precipitacion": 67.9,
+  "Temperatura": 27.2,
+  "SPI": 0.3840774029,
+  "SPI Historico": 0.4130871548
+},
+{
+  "Fecha": 1661990400000,
+  "Any": 2022,
+  "Mes": 9,
+  "Precipitacion": 13.1,
+  "Temperatura": 22.5,
+  "SPI": -0.766969068,
+  "SPI Historico": -0.798815155
+},
+{
+  "Fecha": 1664582400000,
+  "Any": 2022,
+  "Mes": 10,
+  "Precipitacion": 11.3,
+  "Temperatura": 20.7,
+  "SPI": -0.8047771637,
+  "SPI Historico": -0.8386221652
+},
+{
+  "Fecha": 1667260800000,
+  "Any": 2022,
+  "Mes": 11,
+  "Precipitacion": 7.6,
+  "Temperatura": 15.2,
+  "SPI": -0.882493805,
+  "SPI Historico": -0.9204476861
+},
+{
+  "Fecha": 1669852800000,
+  "Any": 2022,
+  "Mes": 12,
+  "Precipitacion": 33.0,
+  "Temperatura": 12.6,
+  "SPI": -0.3489795649,
+  "SPI Historico": -0.3587265425
+}
+]

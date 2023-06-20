@@ -1,0 +1,17 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "sequia": "Sequía moderada",
+        "temperatura": 30,
+        "precipitacion": 20
+      },
+      {
+        "id": 2,
+        "sequia": "Sequía severa",
+        "temperatura": 35,
+        "precipitacion": 10
+      }
+    ]
+  }
+  
